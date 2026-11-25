@@ -1,0 +1,205 @@
+{
+  "report_date": "2026-06-29",
+  "generated_at": "2026-06-30T06:15:01.421Z",
+  "output_dir": "storage\\daily-reports\\2026-06-29",
+  "files": [
+    {
+      "type": "daily_attendance",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\daily_attendance.csv",
+      "rows": 4
+    },
+    {
+      "type": "daily_attendance",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\daily_attendance.xls",
+      "rows": 4
+    },
+    {
+      "type": "daily_attendance",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\daily_attendance.pdf",
+      "rows": 4
+    },
+    {
+      "type": "employee_attendance",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\employee_attendance.csv",
+      "rows": 4
+    },
+    {
+      "type": "employee_attendance",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\employee_attendance.xls",
+      "rows": 4
+    },
+    {
+      "type": "employee_attendance",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\employee_attendance.pdf",
+      "rows": 4
+    },
+    {
+      "type": "late_arrival",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\late_arrival.csv",
+      "rows": 4
+    },
+    {
+      "type": "late_arrival",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\late_arrival.xls",
+      "rows": 4
+    },
+    {
+      "type": "late_arrival",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\late_arrival.pdf",
+      "rows": 4
+    },
+    {
+      "type": "half_day",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\half_day.csv",
+      "rows": 4
+    },
+    {
+      "type": "half_day",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\half_day.xls",
+      "rows": 4
+    },
+    {
+      "type": "half_day",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\half_day.pdf",
+      "rows": 4
+    },
+    {
+      "type": "absent",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\absent.csv",
+      "rows": 0
+    },
+    {
+      "type": "absent",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\absent.xls",
+      "rows": 0
+    },
+    {
+      "type": "absent",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\absent.pdf",
+      "rows": 0
+    },
+    {
+      "type": "working_hours",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\working_hours.csv",
+      "rows": 4
+    },
+    {
+      "type": "working_hours",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\working_hours.xls",
+      "rows": 4
+    },
+    {
+      "type": "working_hours",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\working_hours.pdf",
+      "rows": 4
+    },
+    {
+      "type": "movement",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\movement.csv",
+      "rows": 102
+    },
+    {
+      "type": "movement",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\movement.xls",
+      "rows": 102
+    },
+    {
+      "type": "movement",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\movement.pdf",
+      "rows": 102
+    },
+    {
+      "type": "camera_activity",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\camera_activity.csv",
+      "rows": 0
+    },
+    {
+      "type": "camera_activity",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\camera_activity.xls",
+      "rows": 0
+    },
+    {
+      "type": "camera_activity",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\camera_activity.pdf",
+      "rows": 0
+    },
+    {
+      "type": "camera_health",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\camera_health.csv",
+      "rows": 0
+    },
+    {
+      "type": "camera_health",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\camera_health.xls",
+      "rows": 0
+    },
+    {
+      "type": "camera_health",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\camera_health.pdf",
+      "rows": 0
+    },
+    {
+      "type": "ai_face_recognition",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\ai_face_recognition.csv",
+      "rows": 33
+    },
+    {
+      "type": "ai_face_recognition",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\ai_face_recognition.xls",
+      "rows": 33
+    },
+    {
+      "type": "ai_face_recognition",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\ai_face_recognition.pdf",
+      "rows": 33
+    },
+    {
+      "type": "unknown_faces",
+      "format": "csv",
+      "file": "storage\\daily-reports\\2026-06-29\\unknown_faces.csv",
+      "rows": 26
+    },
+    {
+      "type": "unknown_faces",
+      "format": "excel",
+      "file": "storage\\daily-reports\\2026-06-29\\unknown_faces.xls",
+      "rows": 26
+    },
+    {
+      "type": "unknown_faces",
+      "format": "pdf",
+      "file": "storage\\daily-reports\\2026-06-29\\unknown_faces.pdf",
+      "rows": 26
+    }
+  ]
+}

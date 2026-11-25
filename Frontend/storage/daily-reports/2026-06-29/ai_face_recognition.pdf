@@ -1,0 +1,55 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 5158 >> stream
+BT /F1 8 Tf 40 780 Td (AI Face Recognition Report) Tj ET
+BT /F1 8 Tf 40 766 Td () Tj ET
+BT /F1 8 Tf 40 752 Td (event_time | event_type | employee_code | employee_name | camera_name | location_name | branch_name | entrance | confide) Tj ET
+BT /F1 8 Tf 40 738 Td (29/6/2026, 7:41:20 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.736 | true | pc_) Tj ET
+BT /F1 8 Tf 40 724 Td (29/6/2026, 7:39:15 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.715 | true | pc_) Tj ET
+BT /F1 8 Tf 40 710 Td (29/6/2026, 7:38:17 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.690 | true | pc_) Tj ET
+BT /F1 8 Tf 40 696 Td (29/6/2026, 7:37:13 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.756 | true | pc_) Tj ET
+BT /F1 8 Tf 40 682 Td (29/6/2026, 7:36:22 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.702 | true | pc_) Tj ET
+BT /F1 8 Tf 40 668 Td (29/6/2026, 7:35:41 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.711 | true | pc_) Tj ET
+BT /F1 8 Tf 40 654 Td (29/6/2026, 7:35:07 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.739 | true | pc_) Tj ET
+BT /F1 8 Tf 40 640 Td (29/6/2026, 7:34:24 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.715 | true | pc_) Tj ET
+BT /F1 8 Tf 40 626 Td (29/6/2026, 7:33:42 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.711 | true | pc_) Tj ET
+BT /F1 8 Tf 40 612 Td (29/6/2026, 7:32:41 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.733 | true | pc_) Tj ET
+BT /F1 8 Tf 40 598 Td (29/6/2026, 7:32:07 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.728 | true | pc_) Tj ET
+BT /F1 8 Tf 40 584 Td (29/6/2026, 7:26:40 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.736 | true | pc_) Tj ET
+BT /F1 8 Tf 40 570 Td (29/6/2026, 7:26:09 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.787 | true | pc_) Tj ET
+BT /F1 8 Tf 40 556 Td (29/6/2026, 7:25:17 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.737 | true | pc_) Tj ET
+BT /F1 8 Tf 40 542 Td (29/6/2026, 7:22:56 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.708 | true | pc_) Tj ET
+BT /F1 8 Tf 40 528 Td (29/6/2026, 6:58:05 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.747 | true | pc_) Tj ET
+BT /F1 8 Tf 40 514 Td (29/6/2026, 6:57:01 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.758 | true | pc_) Tj ET
+BT /F1 8 Tf 40 500 Td (29/6/2026, 6:52:21 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.695 | true | pc_) Tj ET
+BT /F1 8 Tf 40 486 Td (29/6/2026, 6:51:23 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.772 | true | pc_) Tj ET
+BT /F1 8 Tf 40 472 Td (29/6/2026, 6:47:45 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  |  |  |  | 0.763 | true | pc_webcam) Tj ET
+BT /F1 8 Tf 40 458 Td (29/6/2026, 6:46:18 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.728 | true | pc_) Tj ET
+BT /F1 8 Tf 40 444 Td (29/6/2026, 4:38:26 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.824 | true | pc_) Tj ET
+BT /F1 8 Tf 40 430 Td (29/6/2026, 4:37:36 pm | FACE_RECOGNIZED | EMP201 | SUP01 IT |  | Branch Office | EBH | Main Gate | 0.877 | true | pc_web) Tj ET
+BT /F1 8 Tf 40 416 Td (29/6/2026, 4:36:21 pm | FACE_RECOGNIZED | EMP201 | SUP01 IT |  | Branch Office | EBH | Main Gate | 0.816 | true | pc_web) Tj ET
+BT /F1 8 Tf 40 402 Td (29/6/2026, 4:36:17 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.791 | true | pc_) Tj ET
+BT /F1 8 Tf 40 388 Td (29/6/2026, 4:35:37 pm | FACE_RECOGNIZED | EMP201 | SUP01 IT |  | Branch Office | EBH | Main Gate | 0.881 | true | pc_web) Tj ET
+BT /F1 8 Tf 40 374 Td (29/6/2026, 4:34:48 pm | FACE_RECOGNIZED | EMP201 | SUP01 IT |  | Branch Office | EBH | Main Gate | 0.879 | true | pc_web) Tj ET
+BT /F1 8 Tf 40 360 Td (29/6/2026, 4:34:14 pm | FACE_RECOGNIZED | EMP201 | SUP01 IT |  |  |  |  | 0.885 | true | pc_webcam) Tj ET
+BT /F1 8 Tf 40 346 Td (29/6/2026, 4:31:30 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.684 | true | pc_) Tj ET
+BT /F1 8 Tf 40 332 Td (29/6/2026, 4:30:58 pm | FACE_RECOGNIZED | EMP200 | Supriya Kumari |  | Branch Office | EBH | Main Gate | 0.881 | true | ) Tj ET
+BT /F1 8 Tf 40 318 Td (29/6/2026, 4:28:19 pm | FACE_RECOGNIZED | EMP001 | Rahul Kumar |  | Branch Office | EBH | Main Gate | 0.771 | true | pc_) Tj ET
+BT /F1 8 Tf 40 304 Td (29/6/2026, 4:27:46 pm | FACE_RECOGNIZED | EMP101 | Mr Singh |  | Branch Office | EBH | Main Gate | 0.820 | true | pc_web) Tj ET
+BT /F1 8 Tf 40 290 Td (29/6/2026, 4:27:15 pm | FACE_RECOGNIZED | EMP101 | Mr Singh |  |  |  |  | 0.762 | true | pc_webcam) Tj ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+5521
+%%EOF

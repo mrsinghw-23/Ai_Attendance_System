@@ -1,0 +1,5 @@
+attendance_date,employee_code,employee,working_hours,total_inside_minutes,total_outside_minutes,overtime_minutes
+2026-06-29,EMP101,Mr Singh,23.38,1403,204,863
+2026-06-29,EMP200,Supriya Kumari,19.23,1154,0,614
+2026-06-29,EMP201,SUP01 IT,19.18,1151,1,611
+2026-06-29,EMP001,Rahul Kumar,3.22,193,53,0

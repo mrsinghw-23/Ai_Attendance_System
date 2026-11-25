@@ -1,0 +1,11 @@
+
+    <html>
+      <head><meta charset="utf-8" /></head>
+      <body>
+        <table>
+          <thead><tr><th>camera_name</th><th>location_name</th><th>health_status</th><th>camera_reachable</th><th>rtsp_reachable</th><th>stream_available</th><th>latency_ms</th><th>message</th><th>checked_at</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </body>
+    </html>
+  

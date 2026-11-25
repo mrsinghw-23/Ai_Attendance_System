@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 6089 >> stream
+BT /F1 8 Tf 40 780 Td (Movement Report) Tj ET
+BT /F1 8 Tf 40 766 Td () Tj ET
+BT /F1 8 Tf 40 752 Td (employee_code | employee | event_type | event_time | camera_name | location_name | source) Tj ET
+BT /F1 8 Tf 40 738 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:41:20 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 724 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:39:15 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 710 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:38:17 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 696 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:37:13 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 682 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:36:22 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 668 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:35:41 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 654 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:35:07 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 640 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:34:24 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 626 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:33:42 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 612 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:32:41 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 598 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:32:07 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 584 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:26:40 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 570 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:26:09 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 556 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:25:17 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 542 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 7:22:56 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 528 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 6:58:05 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 514 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 6:57:01 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 500 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 6:52:21 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 486 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 6:51:23 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 472 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 6:47:45 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 458 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 6:46:18 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 444 Td (EMP001 | Rahul Kumar | OUT | 29/6/2026, 5:08:26 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 430 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 4:38:26 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 416 Td (EMP201 | SUP01 IT | IN | 29/6/2026, 4:37:36 pm |  | Branch Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 402 Td (EMP201 | SUP01 IT | IN | 29/6/2026, 4:36:21 pm |  | Branch Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 388 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 4:36:17 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 374 Td (EMP201 | SUP01 IT | IN | 29/6/2026, 4:35:37 pm |  | Branch Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 360 Td (EMP201 | SUP01 IT | IN | 29/6/2026, 4:34:48 pm |  | Branch Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 346 Td (EMP201 | SUP01 IT | IN | 29/6/2026, 4:34:14 pm |  | Branch Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 332 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 4:31:30 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 318 Td (EMP200 | Supriya Kumari | IN | 29/6/2026, 4:30:58 pm |  | Branch Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 304 Td (EMP001 | Rahul Kumar | IN | 29/6/2026, 4:28:19 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 290 Td (EMP101 | Mr Singh | IN | 29/6/2026, 4:27:46 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 276 Td (EMP101 | Mr Singh | IN | 29/6/2026, 4:27:15 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 262 Td (EMP101 | Mr Singh | IN | 29/6/2026, 4:23:36 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 248 Td (EMP101 | Mr Singh | IN | 29/6/2026, 4:22:32 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 234 Td (EMP101 | Mr Singh | IN | 29/6/2026, 4:16:27 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 220 Td (EMP101 | Mr Singh | IN | 29/6/2026, 4:05:16 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 206 Td (EMP101 | Mr Singh | IN | 29/6/2026, 3:47:39 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 192 Td (EMP101 | Mr Singh | IN | 29/6/2026, 3:45:59 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 178 Td (EMP101 | Mr Singh | IN | 29/6/2026, 3:44:47 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 164 Td (EMP101 | Mr Singh | IN | 29/6/2026, 3:33:46 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 150 Td (EMP101 | Mr Singh | IN | 29/6/2026, 3:17:30 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 136 Td (EMP101 | Mr Singh | IN | 29/6/2026, 2:50:49 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 122 Td (EMP101 | Mr Singh | IN | 29/6/2026, 2:50:10 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 108 Td (EMP101 | Mr Singh | IN | 29/6/2026, 2:49:21 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 94 Td (EMP101 | Mr Singh | IN | 29/6/2026, 2:45:25 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 80 Td (EMP101 | Mr Singh | IN | 29/6/2026, 2:31:51 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 66 Td (EMP101 | Mr Singh | IN | 29/6/2026, 2:31:03 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+BT /F1 8 Tf 40 52 Td (EMP101 | Mr Singh | IN | 29/6/2026, 2:30:24 pm |  | Head Office | AI_FACE_RECOGNITION) Tj ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+6452
+%%EOF
